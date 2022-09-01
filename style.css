@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#f7f7f7;
 
 }
 .meny{
@@ -15,4 +17,7 @@ body{
 }
 .lista{
     padding-right:45px;
+}
+.nav{
+    margin-bottom: 3rem;
 }
