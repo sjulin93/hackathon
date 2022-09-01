@@ -21,6 +21,13 @@ li{
 .lista{
     padding-right:45px;
 }
+li{
+    list-style-type:none;
+
+}
 .nav{
     margin-bottom: 3rem;
+}
+.minions{
+    margin-left: 0;
 }
