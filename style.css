@@ -15,6 +15,9 @@ body{
     height: auto;
 
 }
+li{
+    list-style-type: none;
+}
 .lista{
     padding-right:45px;
 }
