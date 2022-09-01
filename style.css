@@ -1,17 +1,25 @@
 body{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    background-color:#f7f7f7;
+    color: #5e73a3;
+    background-color:#e2f1ff;
     margin: 0;
 
+}
+a{
+    color: #5e73a3;
+}
+a:hover{
+    color: #273453;
 }
 .meny{
     padding-left: 10px;
     padding-right: 10px;
     font-size: 1.5rem;
-    
+
     
 }
+
 .picture{
     width: 400px;
     height: auto;
