@@ -23,10 +23,12 @@ a:hover{
 .picture{
     width: 400px;
     height: auto;
+    border-radius: 100%;
 
 }
 li{
     list-style-type: none;
+    font-weight: bold;
 }
 .lista{
     padding-right:45px;
@@ -35,14 +37,32 @@ li{
     list-style-type:none;
 
 }
-.nav{
+.names{
     margin-bottom: 3rem;
     margin-top:2rem;
+    text-align: center;
 }
 .minions{
     margin-left: 0;
     max-width: 100%;
 }
+
 a{
     text-decoration: none;
+}
+.bot{
+    padding:1% 0 1%
+}
+#carouselExampleControls{
+    height:50%;
+}
+.button{
+    padding-left: 7%;
+
+}
+.buttons{
+    padding-right: 7%;
+}
+#carouselExampleControls{
+    height:30%;
 }
